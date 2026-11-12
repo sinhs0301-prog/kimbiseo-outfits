@@ -1,0 +1,23 @@
+{
+ "format": "kimbiseo-outfits/1",
+ "updated": "2026-11-12",
+ "outfits": [
+  {
+   "id": "kimbiseo_m",
+   "name": "김비서(남)",
+   "version": "",
+   "body": "",
+   "gender": "남성",
+   "description": "남자 김비서는 준비 중이에요",
+   "size": 0,
+   "sha256": "",
+   "signed": true,
+   "sign_key": "kimbiseo-pack-1",
+   "url": "",
+   "preview": "",
+   "default": false,
+   "songs": false,
+   "soon": true
+  }
+ ]
+}
