@@ -22,19 +22,19 @@
   {
    "id": "kimbiseo_m",
    "name": "김비서(남)",
-   "version": "2026.11.13.1-nosong",
+   "version": "2026.11.16.1-nosong",
    "body": "7.7등신",
    "gender": "남성",
    "description": "남자 김비서 — 흰 셔츠에 회색 슬랙스. 춤은 추지만 노래는 없어요.",
-   "size": 151208391,
-   "sha256": "a227b0d3bfc810be3c0e93f2ffd6e3fd0b48344cf4c5457b0a7d31a71f086513",
+   "size": 150959567,
+   "sha256": "aaa6f6b6fff895a69d8170a5c66d1b32febe7b9da3773fa4ea039bced8c85a7b",
    "signed": true,
    "sign_key": "kimbiseo-pack-1",
-   "url": "https://github.com/sinhs0301-prog/kimbiseo-outfits/releases/download/kimbiseo_m-2026.11.13.1-nosong/kimbiseo_m_2026.11.13.1_nosong.hipcpet",
-   "preview": "previews/kimbiseo_m_2026.11.13.1-nosong.png",
+   "url": "https://github.com/sinhs0301-prog/kimbiseo-outfits/releases/download/kimbiseo_m-2026.11.16.1-nosong/kimbiseo_m_2026.11.16.1_nosong.hipcpet",
+   "preview": "previews/kimbiseo_m_2026.11.16.1-nosong.png",
    "default": false,
    "songs": false,
-   "release": "kimbiseo_m-2026.11.13.1-nosong"
+   "release": "kimbiseo_m-2026.11.16.1-nosong"
   }
  ]
 }
