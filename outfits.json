@@ -56,19 +56,19 @@
   {
    "id": "kimbiseo_bikini",
    "name": "김비서(비키니)",
-   "version": "2026.11.19.1-nosong",
+   "version": "2026.11.20.1-nosong",
    "body": "",
    "gender": "여성",
-   "description": "비키니 김비서 — 춤은 추지만 노래는 없어요. (PC 전용)",
-   "size": 153192228,
-   "sha256": "8c281057e296aa7ad58d0cebd0273ddfac81ec6122fe7eea5c00d882c386db1f",
+   "description": "비키니 김비서 — 춤은 추지만 노래는 없어요. (PC 전용 · 19세 이상)",
+   "size": 153192245,
+   "sha256": "4edb73d856a9abb5e48573fc4673ca8c9800b0602c30802fe43768fb62a1f60d",
    "signed": true,
    "sign_key": "kimbiseo-pack-1",
-   "url": "https://github.com/sinhs0301-prog/kimbiseo-outfits/releases/download/kimbiseo_bikini-2026.11.19.1-nosong/kimbiseo_bikini_2026.11.19.1_nosong.hipcpet",
-   "preview": "previews/kimbiseo_bikini_2026.11.19.1-nosong.png",
+   "url": "https://github.com/sinhs0301-prog/kimbiseo-outfits/releases/download/kimbiseo_bikini-2026.11.20.1-nosong/kimbiseo_bikini_2026.11.20.1_nosong.hipcpet",
+   "preview": "previews/kimbiseo_bikini_2026.11.20.1-nosong.png",
    "default": false,
    "songs": false,
-   "release": "kimbiseo_bikini-2026.11.19.1-nosong"
+   "release": "kimbiseo_bikini-2026.11.20.1-nosong"
   }
  ]
 }
