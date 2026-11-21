@@ -17,7 +17,8 @@
    "preview": "previews/kimbiseo_f_2026.11.21.1-nosong.png",
    "default": true,
    "songs": false,
-   "release": "kimbiseo_f-2026.11.21.1-nosong"
+   "release": "kimbiseo_f-2026.11.21.1-nosong",
+   "rating": "all"
   },
   {
    "id": "kimbiseo_m",
@@ -34,7 +35,8 @@
    "preview": "previews/kimbiseo_m_2026.11.21.1-nosong.png",
    "default": false,
    "songs": false,
-   "release": "kimbiseo_m-2026.11.21.1-nosong"
+   "release": "kimbiseo_m-2026.11.21.1-nosong",
+   "rating": "all"
   },
   {
    "id": "kimbiseo_mix",
@@ -51,7 +53,8 @@
    "preview": "previews/kimbiseo_mix_2026.11.21.1-nosong.png",
    "default": false,
    "songs": false,
-   "release": "kimbiseo_mix-2026.11.21.1-nosong"
+   "release": "kimbiseo_mix-2026.11.21.1-nosong",
+   "rating": "all"
   },
   {
    "id": "kimbiseo_bikini",
@@ -68,7 +71,9 @@
    "preview": "previews/kimbiseo_bikini_2026.11.21.1-nosong.png",
    "default": false,
    "songs": false,
-   "release": "kimbiseo_bikini-2026.11.21.1-nosong"
+   "release": "kimbiseo_bikini-2026.11.21.1-nosong",
+   "rating": "19",
+   "pc_only": true
   },
   {
    "id": "kimbiseo_office",
@@ -76,7 +81,7 @@
    "version": "2026.11.20.2-nosong",
    "body": "7.8등신",
    "gender": "여성",
-   "description": "",
+   "description": "오피스룩 김비서 — 흰 셔츠와 검은 스커트. 춤은 추지만 노래는 없어요.",
    "size": 147219178,
    "sha256": "84b133057ec19dcf5e90a5ed890ba67f9ec238d09b7bae7fd61b9233ae70d56c",
    "signed": true,
@@ -85,7 +90,8 @@
    "preview": "previews/kimbiseo_office_2026.11.20.2-nosong.png",
    "default": false,
    "songs": false,
-   "release": "kimbiseo_office-2026.11.20.2-nosong"
+   "release": "kimbiseo_office-2026.11.20.2-nosong",
+   "rating": "all"
   }
  ]
 }
