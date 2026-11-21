@@ -1,24 +1,23 @@
 {
  "format": "kimbiseo-outfits/1",
- "updated": "2026-11-20",
+ "updated": "2026-11-21",
  "outfits": [
   {
    "id": "kimbiseo_f",
    "name": "김비서(여)",
-   "version": "2026.11.20.1-nosong",
+   "version": "2026.11.21.1-nosong",
    "body": "7.5등신",
    "gender": "여성",
    "description": "기본 옷 — 흰 민소매에 베이지 바지. 춤은 추지만 노래는 없어요.",
-   "rating": "all",
-   "size": 169125523,
-   "sha256": "1190768516660bf5ba34208e70e90adaabdc7514f4e13849a405784418fa3362",
+   "size": 199356410,
+   "sha256": "cd6244cd0268e786bdf90e3b271c79b706224224d0ffee7fe7a4c222996a8673",
    "signed": true,
    "sign_key": "kimbiseo-pack-1",
-   "url": "https://github.com/sinhs0301-prog/kimbiseo-outfits/releases/download/kimbiseo_f-2026.11.20.1-nosong/kimbiseo_f_2026.11.20.1_nosong.hipcpet",
-   "preview": "previews/kimbiseo_f_2026.11.20.1-nosong.png",
+   "url": "https://github.com/sinhs0301-prog/kimbiseo-outfits/releases/download/kimbiseo_f-2026.11.21.1-nosong/kimbiseo_f_2026.11.21.1_nosong.hipcpet",
+   "preview": "previews/kimbiseo_f_2026.11.21.1-nosong.png",
    "default": true,
    "songs": false,
-   "release": "kimbiseo_f-2026.11.20.1-nosong"
+   "release": "kimbiseo_f-2026.11.21.1-nosong"
   },
   {
    "id": "kimbiseo_m",
