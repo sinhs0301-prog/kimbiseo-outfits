@@ -17,7 +17,8 @@
    "preview": "previews/kimbiseo_f_2026.11.21.2-nosong.png",
    "default": true,
    "songs": false,
-   "release": "kimbiseo_f-2026.11.21.2-nosong"
+   "release": "kimbiseo_f-2026.11.21.2-nosong",
+   "rating": "all"
   },
   {
    "id": "kimbiseo_m",
@@ -34,7 +35,8 @@
    "preview": "previews/kimbiseo_m_2026.11.21.2-nosong.png",
    "default": false,
    "songs": false,
-   "release": "kimbiseo_m-2026.11.21.2-nosong"
+   "release": "kimbiseo_m-2026.11.21.2-nosong",
+   "rating": "all"
   },
   {
    "id": "kimbiseo_mix",
@@ -51,7 +53,8 @@
    "preview": "previews/kimbiseo_mix_2026.11.21.2-nosong.png",
    "default": false,
    "songs": false,
-   "release": "kimbiseo_mix-2026.11.21.2-nosong"
+   "release": "kimbiseo_mix-2026.11.21.2-nosong",
+   "rating": "all"
   },
   {
    "id": "kimbiseo_bikini",
