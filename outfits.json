@@ -69,6 +69,23 @@
    "default": false,
    "songs": false,
    "release": "kimbiseo_bikini-2026.11.21.1-nosong"
+  },
+  {
+   "id": "kimbiseo_office",
+   "name": "김비서(오피스룩)",
+   "version": "2026.11.20.2-nosong",
+   "body": "7.8등신",
+   "gender": "여성",
+   "description": "",
+   "size": 147219178,
+   "sha256": "84b133057ec19dcf5e90a5ed890ba67f9ec238d09b7bae7fd61b9233ae70d56c",
+   "signed": true,
+   "sign_key": "kimbiseo-pack-1",
+   "url": "https://github.com/sinhs0301-prog/kimbiseo-outfits/releases/download/kimbiseo_office-2026.11.20.2-nosong/kimbiseo_office_2026.11.20.2_nosong.hipcpet",
+   "preview": "previews/kimbiseo_office_2026.11.20.2-nosong.png",
+   "default": false,
+   "songs": false,
+   "release": "kimbiseo_office-2026.11.20.2-nosong"
   }
  ]
 }
