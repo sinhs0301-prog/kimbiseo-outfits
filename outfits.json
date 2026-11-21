@@ -39,20 +39,19 @@
   {
    "id": "kimbiseo_mix",
    "name": "김비서(혼혈)",
-   "version": "2026.11.20.1-nosong",
+   "version": "2026.11.21.1-nosong",
    "body": "7.5등신",
    "gender": "여성",
    "description": "혼혈 김비서 — 춤은 추지만 노래는 없어요.",
-   "rating": "all",
-   "size": 248120783,
-   "sha256": "207cf66afb3171e959c95935c5e2bc6989bc6a964ce2d934ee10dcf60f8e557d",
+   "size": 248120784,
+   "sha256": "b336098e4033ae4d28fe55e3c2dec92c6fc3b92a53354a26acd294a0d3780bf1",
    "signed": true,
    "sign_key": "kimbiseo-pack-1",
-   "url": "https://github.com/sinhs0301-prog/kimbiseo-outfits/releases/download/kimbiseo_mix-2026.11.20.1-nosong/kimbiseo_mix_2026.11.20.1_nosong.hipcpet",
-   "preview": "previews/kimbiseo_mix_2026.11.20.1-nosong.png",
+   "url": "https://github.com/sinhs0301-prog/kimbiseo-outfits/releases/download/kimbiseo_mix-2026.11.21.1-nosong/kimbiseo_mix_2026.11.21.1_nosong.hipcpet",
+   "preview": "previews/kimbiseo_mix_2026.11.21.1-nosong.png",
    "default": false,
    "songs": false,
-   "release": "kimbiseo_mix-2026.11.20.1-nosong"
+   "release": "kimbiseo_mix-2026.11.21.1-nosong"
   },
   {
    "id": "kimbiseo_bikini",
