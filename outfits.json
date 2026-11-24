@@ -77,20 +77,19 @@
   {
    "id": "kimbiseo_office",
    "name": "김비서(오피스룩)",
-   "version": "2026.11.20.2-nosong",
+   "version": "2026.11.24.1-nosong",
    "body": "7.8등신",
    "gender": "여성",
    "description": "오피스룩 김비서 — 흰 셔츠와 검은 스커트. 춤은 추지만 노래는 없어요.",
-   "size": 147219178,
-   "sha256": "84b133057ec19dcf5e90a5ed890ba67f9ec238d09b7bae7fd61b9233ae70d56c",
+   "size": 135659249,
+   "sha256": "f39fa58466b207332d336fa4d7573fdb2c744fdb52ced5115b70434034ae1330",
    "signed": true,
    "sign_key": "kimbiseo-pack-1",
-   "url": "https://github.com/sinhs0301-prog/kimbiseo-outfits/releases/download/kimbiseo_office-2026.11.20.2-nosong/kimbiseo_office_2026.11.20.2_nosong.hipcpet",
-   "preview": "previews/kimbiseo_office_2026.11.20.2-nosong.png",
+   "url": "https://github.com/sinhs0301-prog/kimbiseo-outfits/releases/download/kimbiseo_office-2026.11.24.1-nosong/kimbiseo_office_2026.11.24.1_nosong.hipcpet",
+   "preview": "previews/kimbiseo_office_2026.11.24.1-nosong.png",
    "default": false,
    "songs": false,
-   "release": "kimbiseo_office-2026.11.20.2-nosong",
-   "rating": "all"
+   "release": "kimbiseo_office-2026.11.24.1-nosong"
   }
  ]
 }
