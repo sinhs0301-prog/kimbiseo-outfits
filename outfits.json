@@ -53,7 +53,8 @@
    "preview": "previews/kimbiseo_mix_2026.11.23.12-nosong.png",
    "default": false,
    "songs": false,
-   "release": "kimbiseo_mix-2026.11.23.12-nosong"
+   "release": "kimbiseo_mix-2026.11.23.12-nosong",
+   "rating": "all"
   },
   {
    "id": "kimbiseo_bikini",
@@ -89,7 +90,8 @@
    "preview": "previews/kimbiseo_office_2026.11.24.1-nosong.png",
    "default": false,
    "songs": false,
-   "release": "kimbiseo_office-2026.11.24.1-nosong"
+   "release": "kimbiseo_office-2026.11.24.1-nosong",
+   "rating": "all"
   }
  ]
 }
